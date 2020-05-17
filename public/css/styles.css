@@ -181,3 +181,17 @@ button:disabled {
     font-weight: 300;
     padding: 12px 24px 0 24px;
 }
+.footer {
+    position: absolute;
+    width: 50%;
+    bottom: 10px;
+    font-size: small;
+    color: palevioletred;  
+    
+  }
+  .index-footer {
+    font-size: small;
+    color: palevioletred;  
+    text-align: center;
+    margin-top: 6px;
+  }
