@@ -197,4 +197,5 @@ button:disabled {
   }
 a {
     color: white;
+    text-decoration:none;
 }
