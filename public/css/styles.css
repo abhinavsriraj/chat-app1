@@ -198,4 +198,5 @@ button:disabled {
 a {
     color: white;
     text-decoration:none;
+    padding: 24px; 
 }
