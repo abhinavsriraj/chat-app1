@@ -195,8 +195,13 @@ button:disabled {
     text-align: center;
     margin-top: 6px;
   }
-a {
+  a {
     color: white;
     text-decoration:none;
     padding: 24px; 
+}
+
+
+@media screen and (max-width:450px){
+    
 }
