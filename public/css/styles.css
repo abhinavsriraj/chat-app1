@@ -205,5 +205,6 @@ button:disabled {
 @media screen and (max-width:600px) and (max-height:615px){
     .message {
         text-align: right;
+	height: 100vh;
     }
 }
